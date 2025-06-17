@@ -38,8 +38,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShritejKV&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShritejKV&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shritej1808&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shritej1808&theme=radical" width="48%" />
 </p>
 
 <p align="center">
@@ -51,9 +51,9 @@
 ### 📬 Let’s Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/shritejkv/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="nkedin.com/in/shritej-kv-479b99276/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:shritejkv@email.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ShritejKV"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/shritej1808"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
