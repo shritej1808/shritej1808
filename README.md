@@ -45,8 +45,7 @@ status       active
 ### Field reports
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shritej1808&show_icons=true&theme=transparent&hide_border=true&title_color=f5c518&icon_color=f5c518&text_color=c9ccd6" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shritej1808&layout=compact&theme=transparent&hide_border=true&title_color=f5c518&text_color=c9ccd6" height="165" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
 
 <br/>
