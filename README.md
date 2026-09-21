@@ -1,72 +1,131 @@
-<h1 align="center">Hey there, I'm Shritej K V 👋</h1>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=60&lines=I+am+vengeance.;I+am+the+night.;I+am+SHRITEJ+KV.;I+ship+backend+systems." alt="Typing SVG" />
+
+<br/>
+
+```
+                     _.-'~~~~~~`-._
+                  .-"               "-.
+                /                       \
+              /                           \
+             /                             \
+            |         BAT-DEV SIGNAL        |
+            |                                |
+            |     🦇   S H R I T E J   🦇     |
+             \                             /
+              \                           /
+                \                       /
+                  "-._               _.-"
+                      `~~~~~~~~~~~`
+```
+
+</div>
+
+<h1 align="center">🦇 Shritej KV — Gotham's Backend Engineer 🦇</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Java+Full-Stack+Developer;Spring+Boot+%7C+React+JS+Enthusiast;Python+Tinkerer+%F0%9F%90%8D;Always+Learning+and+Building" alt="Typing SVG" />
+  <i>"It's not who I am underneath, but what I deploy that defines me."</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ON_DUTY-black?style=for-the-badge&logo=batman&logoColor=yellow&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LOCATION-GOTHAM_(Bengaluru)-black?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/AFFILIATION-Dell_Technologies-black?style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🦇 CASE FILE: SUBJECT PROFILE
 
-- 🎓 CSE Undergrad @ **SDMCET, Dharwad**  
-- 💼 **SDE Intern** @ *Dell Technologies*  
-- 🛠️ Currently crafting:  
-  `Travel Management System` | `Spam Email Classifier` | `Lex+Yacc SQL Parser`  
-- 📡 Exploring: `Distributed Systems`, `DevOps`, `Python Automation`, `Networking (Cisco)`  
-- 🧠 Life mantra: `while(true) { learn(); build(); improve(); }`
-
----
-
-### 💼 Tech Stack
-
-#### 💻 Languages  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-
-#### 🚀 Frameworks & Tools  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![Lex & Yacc](https://img.shields.io/badge/Lex%20%26%20Yacc-000000?style=flat&logo=c&logoColor=white)
-
-#### 🧰 Developer Tools  
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Cygwin](https://img.shields.io/badge/Cygwin-002B36?style=flat&logo=gnu-bash&logoColor=white)
+> **Alias:** Shritej KV
+> **Cover Identity:** Software Engineer 1 @ Dell Technologies
+> **Division:** CMO (Common Management & Orchestration) — EVEREST Scrum Team, Infrastructure Solutions Group
+> **Origin Story:** Computer Science, SDM College of Engineering and Technology, Dharwad
+> **Base of Operations:** Bengaluru, Karnataka
+> **Specialty:** Backend & Full-Stack Engineering — *not* your average cloud sidekick
 
 ---
 
-### 📈 GitHub Insights
+## 🦇 THE UTILITY BELT (Tech Stack)
+
+<div align="center">
+
+| Grapple Gun | Batarangs | Bat-Computer |
+|:---:|:---:|:---:|
+| Java | Kotlin | Python |
+| Spring Boot | FastAPI | Kubernetes |
+| Ansible | Cloud Infra | Full-Stack Systems |
+
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shritej1808&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=shritej1808&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shritej1808&layout=compact&theme=radical" width="48%" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FDE311" />
+  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
+  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+  <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=EE0000" />
 </p>
 
 ---
 
-### 🤝 Let’s Connect
+## 🦇 THE BAT-COMPUTER (Live Stats)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shritej1808&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F7F7F7&icon_color=FDE311&text_color=C9D1D9" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shritej1808&theme=dark&hide_border=true&background=0D1117&ring=FDE311&fire=FDE311&currStreakLabel=F7F7F7" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shritej1808&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F7F7F7&text_color=C9D1D9" width="45%" />
+</div>
+
+---
+
+## 🦇 EVIDENCE BOARD (Pinned Projects)
+
+<div align="center">
+  <em>🔍 Case files pinned to the corkboard — check my pinned repos below for active investigations.</em>
+</div>
+
+```
+   ┌──────────────────────────────────────┐
+   │  📌  Under active investigation...    │
+   │  📌  Backend systems being deployed   │
+   │  📌  Infrastructure being fortified   │
+   └──────────────────────────────────────┘
+```
+
+---
+
+## 🦇 SIGNAL THE BAT-CAVE (Connect)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shritej-kv-479b99276/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:shritejkv@email.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/shritej1808"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/shritej1808"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+<div align="center">
+
+```
+      *
+   *     *
+       *
+    🦇  THE BAT-SIGNAL IS UP.
+        FEEL FREE TO REACH OUT.
+   *
+      *     *
+```
+
+</div>
+
 ---
 
-### 🔍 Fun Fact
+<div align="center">
 
-> *“I don't just debug code — I interrogate it until it confesses.”* 🕵️‍♂️  
-> Or if that fails… `turn it off and on again`
+**"It's not about deploying at midnight. It's about deploying *right*."**
 
----
+<img src="https://komarev.com/ghpvc/?username=shritej1808&label=CASE+FILE+VIEWS&color=000000&style=for-the-badge&labelColor=FDE311" />
 
+</div>
