@@ -3,7 +3,9 @@ name: GitHub Metrics
 on:
   schedule:
     - cron: "0 0 * * *"
+
   workflow_dispatch:
+
   push:
     branches:
       - main
@@ -35,10 +37,14 @@ jobs:
           plugin_isocalendar_duration: half-year
 
           plugin_languages: yes
-          plugin_languages_sections: recently-used
+          plugin_languages_sections: most-used
           plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
 
           plugin_habits: yes
           plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
 
           plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_display: detailed
